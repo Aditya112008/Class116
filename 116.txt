@@ -1,0 +1,3 @@
+Multilinear Logistic Regression : Where the outcome(Yes/No) isdependent on 2 variables
+We will plot the data visually and use a multiinear regression algorithm to predict the outcome for future events
+Also we will use some machine learning libraries 
